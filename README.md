@@ -1,3 +1,9 @@
+#npx create-react-app my-app2
+#cd my-app2
+#vscode にて ESLint と Prettier を設定
+#npx eslint --init
+#npx prettier --init
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
